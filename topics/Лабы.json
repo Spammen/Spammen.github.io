@@ -116,6 +116,13 @@
           "type": "image",
           "data": "img/1_3.png"
         },
+         {
+              "text": "Диаграмма USE Case"
+         },
+        {
+            "type": "image",
+            "data": "diagramUSECase.png"
+        },
         {
             "type": "text",
             "data": [
