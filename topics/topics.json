@@ -1,14 +1,20 @@
 [
     {
-        "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "id": "Лабы",
+        "title": "Лабораторные работы",
+        "description": "Отчеты по Лабораторным работам",
+        "preview": "img/лабы.png"
     },
     {
-        "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "id": "Семинары",
+        "title": "Семинары",
+        "description": "Отчеты по семинарам",
+        "preview": "img/семинары.png"
+    },
+    {
+        "id": "Проект",
+        "title": "Проект",
+        "description": "О проекте",
+        "preview": "img/проект.png"
     }
 ]
