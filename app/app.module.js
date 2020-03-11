@@ -5,6 +5,6 @@ angular.module('designApp', [
   'md.data.table'
 ]).config(function ($mdThemingProvider) {
   $mdThemingProvider.theme('default')
-    .primaryPalette('deep-green')
+    .primaryPalette('green')
     .accentPalette('teal');
 });
